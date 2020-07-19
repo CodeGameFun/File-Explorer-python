@@ -20,5 +20,9 @@ A Open Source File Explorer created in Python with modules ; tkinter, os, shutil
   
 3. explorer_view.py
   Handles GUI. It contains folder buttons, current direcotry, new and remove folder buttons.
+  
+4. IMG Folder
+  Contains Images and Icon files
 
 # Thanks For Viewing
+# Please generate Pull Requests if u find bugs
