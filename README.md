@@ -24,5 +24,13 @@ A Open Source File Explorer created in Python with modules ; tkinter, os, shutil
 4. IMG Folder
   Contains Images and Icon files
 
+# How to Use 
+To create a folder, click on +folder button.
+To delete a folder, open the folder which u want to delete and click -folder button. 
+
+# RED ALERT : I Recomment not deleting folder as it uses shutil which delete the folder without permission
+# PLEASE DONT USE DELETE BUTTON
+
+
 # Thanks For Viewing
 # Please generate Pull Requests if u find bugs
